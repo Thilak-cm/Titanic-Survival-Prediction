@@ -2,4 +2,4 @@
 
 Kaggle's most famous competition
 
-Current score: 0.66746
+Current score: 0.69377
